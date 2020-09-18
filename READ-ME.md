@@ -1,6 +1,6 @@
 ## Summary
 
-This program includes refractored code for the Horiseon website, following the instructions provided. Among other changes, included in comments throughout the code, I replaced generic <div> tags with semantic tags, I added <alt> tags to images, and I optimized many of the elements for search engines following basic SEO principles.
+This program includes refractored code for the Horiseon website, following the instructions provided. Among other changes, included in comments throughout the code, I replaced generic div tags with semantic tags, I added alt tags to images, and I optimized many of the elements for search engines following basic SEO principles.
 
 
 ## Table of Contents (Optional)
