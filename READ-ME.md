@@ -7,7 +7,7 @@ This program includes refractored code for the Horiseon website, following the i
 
 * [Header] The Header area includes the website header and the navigation bar. 
 * [Nav] The Nav area, which is wrapped within the header section, includes the navigavtion tools at the top of the page.
-* [Main] The Main area is broken up into three sections, and includes the primary service categrories.
+* [Main] The Main area is broken up into three sections, and includes the primary service categories.
 * [Aside]The Aside area includes the elements along the right side of the page, broken into three sections.
 * [Footer] The Footer includes all the boiler plate information at the bottom of the page, and was not changed in this update.
 
